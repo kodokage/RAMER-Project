@@ -1,33 +1,11 @@
-
 ---
 title: RAMER – Repair of Autonomous Mobile Educational Robots
 ---
 
-<div class="ramar-hero">
-  <img
-    src="{{ '/RAMER_Robot_3.jpg' | relative_url }}"
-    alt="RAMER autonomous mobile educational robot"
-    class="ramar-hero-image">
+# RAMER
+## Repair of Autonomous Mobile Educational Robots
 
-  <div class="ramar-hero-overlay">
-    <span class="ramar-eyebrow">
-      ENGINEERING PROJECT · UNIVERSITY OF ABERDEEN
-    </span>
-
-    <h1>RAMER</h1>
-
-    <h2>Repair of Autonomous Mobile Educational Robots</h2>
-
-    <p>
-      Recognising an opportunity, taking initiative,
-      and restoring an educational robotics platform.
-    </p>
-  </div>
-</div>
-
-<div class="ramar-content">
-
-## Project overview
+**Recognising an opportunity, taking initiative, and restoring an educational robotics platform.**
 
 RAMER began as a personal initiative during my time at the University of Aberdeen.
 
@@ -77,6 +55,8 @@ The robots employed a two-level computing architecture:
 
 The combination of embedded control, onboard computation and multiple sensors made the platform particularly interesting from a robotics engineering perspective.
 
+![RAMER circuit diagram](circuit_diagram.png)
+
 ## My engineering contributions
 
 My work involved investigating the existing architecture, understanding how the different hardware and software components interacted, and identifying the issues preventing the robots from operating.
@@ -118,5 +98,3 @@ The repository contains the implementation files and supporting technical docume
 For me, RAMER represents more than the restoration of three mobile robots. It demonstrates an approach to engineering that goes beyond completing assigned tasks: recognising problems, identifying opportunities, taking ownership and applying practical skills to create value.
 
 Sometimes engineering initiative begins with simply noticing something that could work better and being willing to do something about it.
-
-</div>
